@@ -7,5 +7,5 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.py`
 - 🌱 Learning all about **Django**
 - 💬 Ping me about **codeigniter**, **laravel**, **django**, **development**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+- 📫 Reach me: [oterminramiro@gmail.com](oterminramiro@gmail.com)
 - ⚡️ Fun fact: I'm a huge fan of World of Warcraft
